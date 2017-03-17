@@ -11,6 +11,7 @@ For more information about using these images with Digital Garage on OpenShift a
 Hugo versions currently provided are:
 
 GoLang 1.8-alpine
+
 Hugo v0.19
 
 ## How to use this image on Digital Garage with OpenShift and Kubernetes?
