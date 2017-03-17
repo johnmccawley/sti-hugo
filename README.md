@@ -18,7 +18,7 @@ Hugo v0.19
 Run:
 
 ```
-$ oc new-app mfojtik/hugo~http://github.com/<org>/<hugo-repo>
+$ oc new-app thedigitalgarage/sti-hugo019-alpine~http://github.com/<org>/<hugo-repo>
 ```
 
 ## Usage
